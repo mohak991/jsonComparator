@@ -1,0 +1,37 @@
+{
+  "context": {
+    "timestamp": "2018-03-20T07:48:49.960-0700",
+    "publisher": "AvailApi",
+    "method": "GET",
+    "resource": "/avail",
+    "applicationId": "0000000001",
+    "userType": "",
+    "domainUserName": "",
+    "userRealm": "",
+    "keyIdentifier": "",
+    "messageId": "860e7f90-0080-4c8c-9a18-726c1ee83b70",
+    "operationId": "MultiPropAvail",
+    "hostName": "Anonymous.local"
+  },
+  "body": {
+    "propCode": [
+      "QPROP",
+      "RPROP",
+      "SPROP"
+    ],
+    "arrivalDate": "{arrivalDate}",
+    "departureDate": "{departureDate}",
+    "clientNegotiated": false,
+    "defaultRateCategoryToken": "POUY",
+    "defaultRoomFilterToken": "TYUI",
+    "displayFilter": "S",
+    "displayOrder": "T",
+    "filterConditionalRatePlans": false,
+    "filterGdsRoom": true,
+    "lengthOfStay": 2,
+    "minRateFilterIndicator": false,
+    "numAdults": 2,
+    "roomFilterToken": "SRP",
+    "seamlessTextDescFlag": false
+  }
+}

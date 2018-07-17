@@ -1,0 +1,117 @@
+[
+  {
+    "channelId": "0000000001",
+    "configs": {
+      "avail": {
+        "displayOrder": "T",
+        "displayCurrency": "EUR",
+        "displayRateType": "A",
+        "defaultToken": "CHA12",
+        "propRoomTypeOrderFlag": false,
+        "ratePlanDescLineCnt": "3",
+        "ratePlanLimit": "8",
+        "roomTypeDescLineCnt": "4",
+        "roomTypeMax": "3",
+        "displayFilter": "S",
+        "logDemandDenial": false,
+        "filterConditionalRatePlans": false,
+        "filterGdsRoom": true,
+        "clientRoomFilterToken": "CHA12",
+        "defaultRoomFilterToken": "TYUI",
+        "defaultRateCategoryToken": "POUY",
+        "promoRoomFilterToken": "U67UY",
+        "ratePlanRoomFilterToken": "RPN",
+        "rateCatTokenRoomFilter": [
+          "ABC",
+          "CGDF",
+          "BKH",
+          "JUTH"
+        ],
+        "roomFilterToken": "SRP",
+        "clientNegotiated": false,
+        "filterRatePlans": false,
+        "minRateFilterIndicator": false,
+        "facilityIdsRequested": false,
+        "includeBookingMsgs": true,
+        "seamlessTextDescFlag": false,
+        "resCenterId": "TYU56"
+      }
+    }
+  },
+  {
+    "channelId": "0000000002",
+    "configs": {
+      "avail": {
+        "displayOrder": "T",
+        "displayCurrency": "EUR",
+        "displayRateType": "A",
+        "defaultToken": "CHA12",
+        "propRoomTypeOrderFlag": false,
+        "ratePlanDescLineCnt": "3",
+        "ratePlanLimit": "8",
+        "roomTypeDescLineCnt": "4",
+        "roomTypeMax": "3",
+        "displayFilter": "S",
+        "logDemandDenial": false,
+        "filterConditionalRatePlans": false,
+        "filterGdsRoom": true,
+        "clientRoomFilterToken": "CHA12",
+        "defaultRoomFilterToken": "TYUI",
+        "defaultRateCategoryToken": "POUY",
+        "promoRoomFilterToken": "U67UY",
+        "ratePlanRoomFilterToken": "RPN",
+        "rateCatTokenRoomFilter": [
+          "ABC",
+          "CGDF",
+          "BKH",
+          "JUTH"
+        ],
+        "roomFilterToken": "SRP",
+        "clientNegotiated": false,
+        "filterRatePlans": false,
+        "minRateFilterIndicator": false,
+        "facilityIdsRequested": false,
+        "includeBookingMsgs": true,
+        "seamlessTextDescFlag": false,
+        "resCenterId": "TYU56"
+      }
+    }
+  },
+  {
+    "channelId": "0000000003",
+    "configs": {
+      "avail": {
+        "displayOrder": "T",
+        "displayCurrency": "EUR",
+        "displayRateType": "A",
+        "defaultToken": "CHA12",
+        "propRoomTypeOrderFlag": false,
+        "ratePlanDescLineCnt": "3",
+        "ratePlanLimit": "8",
+        "roomTypeDescLineCnt": "4",
+        "roomTypeMax": "3",
+        "displayFilter": "S",
+        "logDemandDenial": false,
+        "filterConditionalRatePlans": false,
+        "filterGdsRoom": true,
+        "clientRoomFilterToken": "CHA12",
+        "defaultRoomFilterToken": "TYUI",
+        "defaultRateCategoryToken": "POUY",
+        "promoRoomFilterToken": "U67UY",
+        "ratePlanRoomFilterToken": "RPN",
+        "rateCatTokenRoomFilter": ["ABC",
+          "CGDF",
+          "BKH",
+          "JUTH"],
+        "roomFilterToken": "SRP",
+        "clientNegotiated": false,
+        "filterRatePlans": false,
+        "minRateFilterIndicator": false,
+        "facilityIdsRequested": false,
+        "includeBookingMsgs": true,
+        "seamlessTextDescFlag": false,
+        "resCenterId": "TYU56"
+      }
+    }
+  }
+]

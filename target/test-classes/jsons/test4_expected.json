@@ -1,0 +1,27 @@
+{
+	"widget": {
+		"debug": "on",
+		"window": {
+			"title": "Test Json File",
+			"name": "main_window",
+			"width": 500,
+			"height": 500
+		},
+		"image": {
+			"name": "sun11",
+			"hOffset": "${json-unit.any-string}",
+			"vOffset": "${json-unit.any-number}",
+			"alignment": "${json-unit.ignore}",
+			"modifiedTime": "${json-unit.regex}\\d{4}\\-(0?[1-9]|1[012])\\-(0?[1-9]|[12][0-9]|3[01]).*"
+		},
+		"text": {
+			"data": "Click Here",
+			"size": 36,
+			"style": "bold",
+			"name": "text1",
+			"hOffset": 250,
+			"vOffset": 100,
+			"alignment": "center"
+		}
+	}
+}

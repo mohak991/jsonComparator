@@ -1,0 +1,27 @@
+{
+	"widget": {
+		"debug": "on",
+		"window": {
+			"title": "Test Json File",
+			"name": "main_window",
+			"width": 500,
+			"height": 500
+		},
+		"image": {
+			"name": "sun11",
+			"hOffset": 2501,
+			"vOffset": 2501,
+			"alignment": "center1",
+			"modifiedTime": "someTIme"
+		},
+		"text": {
+			"data": "Click Here",
+			"size": 36,
+			"style": "bold",
+			"name": "text1",
+			"hOffset": 250,
+			"vOffset": 100,
+			"alignment": "center"
+		}
+	}
+}
